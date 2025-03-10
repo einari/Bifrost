@@ -1,6 +1,3 @@
-# IMPORTANT: WE'VE MOVED TO [HERE](https://github.com/dolittle/home)
-
-
 | Source | Version |
 | ------ | ------- |
 | NuGet | [![NuGet](https://img.shields.io/nuget/v/Bifrost.svg)](https://www.nuget.org/packages?q=bifrost) |
